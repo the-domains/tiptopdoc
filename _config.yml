@@ -1,0 +1,28 @@
+name: TipTopDoc
+favicon: null
+layout_spectrum: 0.8434275947511196
+typography_spectrum: 0.9672073870897293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7638754253275692
+  lightness: 0.470555440755561
+  saturation: 0.5829581846483052
+  rhythmicContrast: 0.3176697255112231
+purpose: []
